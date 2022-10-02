@@ -3,7 +3,7 @@ Prediction of User-Drawn Digits using Convolutional Neural Networks inside a web
 The web-app allows the user to draw a digit on a virtual canvas and predicts the drawn digit using Keras-API and Tensorflow in python.
 
 #### Updated README:
-As of May 2020, more than half of the functions are either out-dated / depreciated. The project was created in 2017, and the supporting library versions for the dependencies are as follows:
+As of sept 2022, more than half of the functions are either out-dated / depreciated. The project was created in 2022, and the supporting library versions for the dependencies are as follows:
 > tensorflow: v0.10.0 <br>
 > keras: v1.1.0 <br>
 > scikit-learn: v0.19.0 <br>
